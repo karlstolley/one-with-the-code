@@ -4,7 +4,7 @@ This is a webtext that explores open-source practices applied to writing, rather
 than open-source software to support writing.
 
 The quotation that the title is derived from comes from Hugh Burns' foreword
-to Paul LeBlanc's (1993) //Writing Teachers Writing Software//:
+to Paul LeBlanc's (1993) _Writing Teachers Writing Software_:
 
 	If we wondered how universal connectivity and communication would mean
 	nothing if learners were not equipped well enough to be able to write or
