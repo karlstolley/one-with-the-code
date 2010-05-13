@@ -1,3 +1,13 @@
+<?php 
+include 'functions.php'; ?>
+<?php
+$ks_info = array (
+	'title' => 		'Overview',
+	'bodyclass'	=>	'overview'
+);
+ks_header($ks_info);
+?>
+<div id="content">
 	<p>
 		The central contradiction of computers and writing's tenuous relationship with source can be found in summary form on page 15 of Moore's (1986) <cite>Using Computers in English</cite>, on which Moore cited a passage from Chandler's (1984) book <cite>Young Learners and the Microcomputer</cite>:
 	</p>
@@ -17,3 +27,8 @@
 	<p>
 		On the one hand, Moore appears to have wanted to absolve himself and other teachers from the responsibility that attends learning to program (and therefore, I believe, control) computers. On the other hand, Moore wanted to make an emphasis-in-the-original claim that <em>we</em> should be in control. How? By engaging in the consumerist activity of accepting or rejecting software, either as a product of nebulous "involvement" in development (without programming knowledge, apparently) or, as Chandler explicitly cautioned against, as mere consumers of educational software.
 	</p>
+</div>
+<?php
+ks_navigation();
+ks_footer($ks_info);
+?>
